@@ -1,0 +1,413 @@
+    1   echo $x
+    2  $ x=33
+    3  x=33
+    4  echo $x
+    5  echo  $y
+    6  y=0
+    7  echo $y
+    8  name = avinash
+    9   echo $0
+   10  export $x
+   11  export x
+   12  ksh
+   13  exit
+   14    echo $HOME
+   15  echo $LOGNAME
+   16  echo $EDITOR
+   17  LS
+   18  git init
+   19  git remote add origin https://github.com/MrAvinashSinghRana/Demo1.git
+   20  git push -u origin master
+   21  git checkout -b feature
+   22  git branch
+   23  git checkout master
+   24  git checkout master
+   25  ls
+   26  nano
+   27  nano hello.txt
+   28  nano hello.txt
+   29  git add . 
+   30  git status
+   31  git commit -m "production"
+   32  git push origin feature
+   33  git checkout master
+   34  git merge production
+   35  git merge feature
+   36  git push origin master
+   37  git merge feature
+   38  git push origin master
+   39  git merge production
+   40  git checkout master
+   41  git push origin master
+   42  clear
+   43  git checkout feature
+   44  git merge feature
+   45  git merge feature
+   46  git checkout master
+   47  git push origin master
+   48  clear
+   49  git checkout master
+   50  ls
+   51  nano hello.txt
+   52  get status
+   53  git status
+   54  git commit -m "updated"
+   55  git commit -m "updated"
+   56  git push origin master
+   57  git push origin master
+   58  git add .
+   59  git push origin feature
+   60  git checkout feature
+   61  git merge feature
+   62  ls
+   63  nano hello.txt
+   64  git status
+   65  clear
+   66  git branch
+   67  git merge master
+   68  ls
+   69  nano hello.txt
+   70  ls
+   71  cd desktop
+   72  ls
+   73  cd java
+   74  ls
+   75  cd bridgelabzfellow
+   76  ls
+   77  mkdir practice
+   78  ls
+   79  cd practice
+   80  ls
+   81  pwd
+   82  clear
+   83  ls -la
+   84  nano test.txt
+   85  git add .
+   86  nano test.txt
+   87  git add .
+   88  lf
+   89  crlf
+   90  CRLF
+   91  git commit -m "first commit by [Avinash rana]"
+   92  pwd
+   93  git log
+   94  git log --author="avinash"
+   95  git log --author="avinash_singh_rana"
+   96  ls
+   97  crls
+   98  git status
+   99  git status
+  100  clear
+  101  git status
+  102  git add .
+  103  ls
+  104  git add . 
+  105  ls
+  106  nano thnku
+  107  nano thnku.txt
+  108  working cpy > staging area > repository
+  109  git commit -m "all files commited."
+  110  git log
+  111  git status 
+  112  git log
+  113  git push origin master
+  114    git remote add origin http://github.com/MrAvinashSinghRana/
+  115    git remote add origin http://github.com/MrAvinashSinghRana/demo.git
+  116    git remote add origin http://github.com/MrAvinashSinghRana/demo3.git
+  117    git remote add origin http://github.com/MrAvinashSinghRana/test.git
+  118    git remote add origin http://github.com/MrAvinashSinghRana/test.git
+  119    git remote add origin http://github.com/MrAvinashSinghRana/test1.git
+  120    git remote add origin https://github.com/MrAvinashSinghRana/test1.git
+  121  git push -u origin master
+  122    git remote add origin http://github.com/MrAvinashSinghRana/test.git
+  123  git push -u origin master
+  124  echo "# test" >> README.md
+  125  echo "# test1" >> README.md
+  126  git init
+  127  git add README.md
+  128  lf
+  129  git add commit -m "first commit"
+  130  git commit -m "first commit"
+  131  nono readme.md
+  132  nano README.md
+  133  git remote add origin https://github.com/MrAvinashSinghRana/test.git
+  134  git push -u origin master
+  135  nano README.md
+  136  clear
+  137  git status
+  138  git diff
+  139  git add .
+  140   git diff
+  141  git commit -m "second commit"
+  142  git status
+  143  nano test.txt
+  144  git diff
+  145  git add test.txt
+  146   fit commit -m "[test.txt] updated file included"
+  147   fit commit -m "updated file included"
+  148   git commit -m "[test.txt] updated file included"
+  149  git status
+  150  git add origin master
+  151  git remote add origin https://github.com/MrAvinashSinghRana/test.git
+  152  git push -u origin master
+  153  git status
+  154  clean
+  155  clear
+  156  git diff --stage
+  157  git diff --staged
+  158  nano text1.txt
+  159  git diff -staged
+  160  git diff --staged
+  161  git diff
+  162  ls
+  163  git diff
+  164   ls
+  165  cd desktop
+  166  ls
+  167  cd java
+  168  ls
+  169  cd bridgelabzfellow
+  170  ls
+  171  cd practice
+  172  git status
+  173  git diff
+  174  git add text1.txt
+  175  git status
+  176  git push origin master
+  177  nano text1.txt
+  178  git add .
+  179  nano text.txt
+  180  git diff
+  181  git add .
+  182  git add text1.txt
+  183  git status
+  184  git push origin -u master
+  185  git push origin master
+  186  git commit -m "updated with new name"
+  187  git push origin master
+  188  clear
+  189  git status
+  190   echo "# rana" 
+  191  echo "# rana" >> readme.md
+  192  ls
+  193  git diff
+  194  git add . 
+  195  git add readme.md
+  196  git commit -m "changes in readme,md"
+  197  git status
+  198  clear
+  199  ls
+  200  git rm staging
+  201  git status
+  202  git diff
+  203  git add home.txt
+  204  git add .
+  205  git status
+  206  git commit -m "renamed the file name of text to home"
+  207  git push origin master
+  208  git mv text2.txt rana.txt
+  209  git status
+  210  git add new_com
+  211  git add new_com.txt
+  212  git commit -m "new file added [new_com]"
+  213  git add origin master
+  214  git add origin -u master
+  215  git status
+  216  git checkout -- rana.txt
+  217  ls
+  218  git status
+  219  git add origin master
+  220  git push origin master
+  221  ls
+  222  git checkout -- test2.txt
+  223  git status
+  224  git log
+  225  git diff
+  226  git status
+  227  cd ..
+  228  git clone https://github.com/MrAvinashSinghRana/test
+  229  git status
+  230  git add .
+  231  git commit -m "reagain after cloning"
+  232  git push origin -u master
+  233  git add origin https://github.com/MrAvinashSinghRana
+  234  git remote add origin https://github.com/MrAvinashSinghRana/clonetest
+  235  git remote add origin https://github.com/MrAvinashSinghRana
+  236  git clone https://github.com/edurekavivekh/linux-context.git
+  237  git clone https://github.com/edurekavivekh/linux-content.git
+  238  clear
+  239  java-version
+  240  java -version
+  241  ls
+  242  cd linux-content
+  243  mkdir rana
+  244  cd rana3
+  245  cd rana
+  246  git --version
+  247  ls
+  248  cd linux-content
+  249  ls
+  250  nano linux_problem_sheet.pdf
+  251  ls linux_
+  252  ls linux__
+  253  ls linux-content
+  254  ls
+  255  cd ..
+  256  ls linux-content
+  257  clear
+  258  ls -l linux-content/linux_chit_sheet.pdf
+  259  pwd
+  260  mkdir temp
+  261  git rm temp
+  262  rm -r temp
+  263  ls
+  264  mkdir temp
+  265  ls
+  266  mkdir -p temp/temp/temp
+  267  ls temp/
+  268  rm -r temp
+  269  ls
+  270  mkdir temp
+  271  temp $touch a.txt
+  272  temp touch a.txt
+  273  ls
+  274  temp $touch a.txt
+  275  temp $ touch a.txt
+  276  ls -l
+  277  cd temp
+  278  temp $ touch a.txt
+  279  touch a.txt
+  280  ls
+  281  ls -al
+  282  ls -p
+  283  ls -l
+  284  touch rana.pdf
+  285  pwd
+  286  nono a.txt
+  287  nano a.txt
+  288  touch b.txt
+  289  cp a.txt b.txt
+  290  nano b.txt
+  291  whereis cp
+  292  whereis rana.pdf
+  293  cp a.txt rana.pdf
+  294  whereis cp
+  295  ls -l /bin
+  296  ls /bin
+  297  clear
+  298  ln -s linux-content/linux_chit_sheet.pdf
+  299  ln -s linux-content/linux_chit_sheet.pdf ~/QuickLink/
+  300  ln -s linux-content/linux_chit_sheet.pdf
+  301  cd ..
+  302  ln -s linux-content/linux_chit_sheet.pdf
+  303  pwd
+  304  ln: /c/Users/avina/desktop/java/bridgelabzfellow/rana
+  305  ls
+  306  cd linux-content
+  307  ln -s linux-content/linux_chit_sheet.pdf
+  308  cd ..
+  309  ln -s linux-content/linux_chit_sheet.pdf
+  310  ln -s linux-content/linux_chit_sheet.pdf
+  311  ls
+  312  ln -s linux-content/linux_chit_sheet.pdf
+  313  ln -s linux-content/linux_chit_sheet.pdf
+  314  clear
+  315  man
+  316  --help
+  317  -help
+  318  git -help
+  319  --man-path
+  320  git --man
+  321  git --help
+  322  git  help -a
+  323  ls -l man
+  324  ls man
+  325  man ls
+  326  man ls 
+  327  cd terminalcommand
+  328  cd-
+  329  cd ..
+  330  cd ''
+  331  cd ..
+  332  cd ..
+  333  cd ..
+  334  cd terminalcommand
+  335  find . -size 5M
+  336  find . -size +5m
+  337  find . -size +5M
+  338  find . -size +5M -name *.pdf
+  339  find . -size +5M -type f | grep.pdf
+  340  find . -size +5M -type f | grep.pdf
+  341  cd linux-content/
+  342  cd linux-content
+  343  ls
+  344  cd..
+  345  cd ..
+  346  find linux-content / -name *.csv
+  347  cd linux-content
+  348  pwd
+  349  ls
+  350  cat data.csv
+  351  grep -i captain linux-content/data.csv 
+  352  grep  -i captain linux-content/data.csv
+  353  grep  -i captain data.csv
+  354  ls -p
+  355  ls -p | grep/
+  356  ls -p | grep/
+  357  ls -p | grep /
+  358  ls -p | grep -v /
+  359  du -sh linux-content
+  360  du -sh linux-content/
+  361  du -sh linux-content/
+  362  du -sk linux-content/* | sort -nr
+  363  du -sk * | sort -nr
+  364  cd ..
+  365  ls
+  366  find . -type f -empty
+  367  cd ..
+  368  ls
+  369  cd temp
+  370  touch temp
+  371  cd temp
+  372  touch $ temp
+  373  ls
+  374  cd temp
+  375  rm temp
+  376  ls
+  377  tiuch -d temp/temp
+  378  tiuch -c temp/temp
+  379  tiuch temp/temp
+  380  touch temp/temp
+  381  touch -- temp/temp
+  382  mkdir temp
+  383  touch HelloWorld.java
+  384  nano helloworld.java
+  385  clear
+  386  javac HelloWorld.java
+  387  java Helloworld
+  388  java HelloWorld
+  389  ps
+  390  psl
+  391  jobs
+  392  ls
+  393  cd ..
+  394  ls
+  395  d ..
+  396  cd ..
+  397  ls
+  398  java HelloWorld
+  399  jobs
+  400  history
+  401  history > touch tomuch.txt
+  402  history -> touch tomuch.txt
+  403  touch tomuch.txt
+  404  history tomuch.txt
+  405  pwd
+  406  ls
+  407  cd desktop
+  408  cd java
+  409  ls
+  410  cd Bridgelabzfellow
+  411  ls
+  412  history
+  413  history > history.txt
